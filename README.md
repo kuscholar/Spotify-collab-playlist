@@ -259,5 +259,6 @@ Figma Wireframes/mockups: https://www.figma.com/file/MvkJd9Yeq0w9gZkvZw5FQe/Spot
 
 
 ### GIFs 
-![](https://i.imgur.com/1ba6g38.gif)
+
+![FZ9bxGiW](https://user-images.githubusercontent.com/61807135/166180434-4f1dfac6-1fdc-4ec7-b2a0-16616ad86c21.gif)
 
